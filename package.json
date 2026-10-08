@@ -2,7 +2,7 @@
   "name": "helpdesk-lite",
   "version": "1.0.0",
   "description": "A mini ServiceNow-style ITSM app: employees raise tickets, IT agents work them through a status workflow, and every change is logged in an activity feed — just like a real ServiceNow incident record.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
